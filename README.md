@@ -1,5 +1,5 @@
 ### Hi there, I'm Linda 👋
-<img align="right" width="150" height="150" src="https://github.com/LindaOuer/LindaOuer/blob/main/computerandmeAnime.png">
+<img align="right" width="150" height="150" src="https://github.com/LindaOuer/LindaOuer/blob/main/computerandmeAnimeModified.png">
 
 
 ## I'm a Daughter, Developer, Teacher, and Athlete (Occasionally 🤣)!!
