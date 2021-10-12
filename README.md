@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Find me around the web 🌎
 
 <a href="https://github.com/LindaOuer"><img align="left" alt="GitHub" width="22px" src="https://github.com/LindaOuer/LindaOuer/blob/main/github.svg" style="color:white" /></a>
-<a href="https://github.com/LindaOuer"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://github.com/LindaOuer"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a>
 <a href="https://github.com/LindaOuer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/LindaOuer"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
@@ -58,6 +58,17 @@ Here are some ideas to get you started:
 
 ---
 
+
+  <summary>:zap: GitHub Stats</summary>
+
+  <!--<img align="left" alt="lindaOuer's GitHub Stats" src="" />-->
+  [![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaOuer&count_private=true&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<summary>:zap: Top Languages</summary>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindaOuer&layout=compact&theme=nightowl&hide_border=true" />
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
@@ -71,11 +82,3 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="lindaOuer's GitHub Stats" src="" />
-
-</details>
-<!-- https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true -->
