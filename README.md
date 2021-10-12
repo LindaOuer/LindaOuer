@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎
 
-<a href="https://github.com/LindaOuer"><img align="left" alt="GitHub" width="22px" src="https://github.com/LindaOuer/LindaOuer/blob/main/github.svg" /></a>
+<a href="https://github.com/LindaOuer"><img align="left" alt="GitHub" width="22px" src="https://github.com/LindaOuer/LindaOuer/blob/main/github.svg" style="color:white" /></a>
 <a href="https://github.com/LindaOuer"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://github.com/LindaOuer"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/LindaOuer"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
